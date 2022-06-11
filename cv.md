@@ -7,10 +7,12 @@
 * No relevant work experience. Worked as a civil engineer, CNC machine operator, sales manager. Gained a strong motivation to learn and master a new specialty;
 * JS / HTML / CSS / React;
 #### code example
+```
 * var userName = 'Vadzim';
 userName ? console.log (`Hello, ${userName}`) : console.log ('Hello!');
 const userQuestion = 'is the IT Hero?';
 console.log(userName + userQuestion);
-* no work expirience;
+```
+* no work expirience in IT;
 * learning in Codecademy.com on the course Learning Java Script;
-* English language level B1.
+* English B1

@@ -1,8 +1,11 @@
+![myphoto](/img/myphoto.jpg "Avatar")
+---
 # Vadzim Markovich
 ---
-## Vadimark1551
+## Github: Vadimark1551
+## Email: opebthedoor@gmail.com
 ---
-### About myself:
+### About myself:gi
 * My goal: to find a new interesting job in the field of IT;
 * No relevant work experience. Worked as a civil engineer, CNC machine operator, sales manager. Gained a strong motivation to learn and master a new specialty;
 * JS / HTML / CSS / React;

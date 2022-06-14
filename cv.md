@@ -1,4 +1,4 @@
-![myphoto](/img/myphoto.jpg "Avatar")
+![myphoto](assets/img/myphoto.jpg "Avatar")
 ---
 # Vadzim Markovich
 ---

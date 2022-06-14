@@ -8,7 +8,7 @@
 * JS / HTML / CSS / React;
 #### code example
 ```
-* var userName = 'Vadzim';
+var userName = 'Vadzim';
 userName ? console.log (`Hello, ${userName}`) : console.log ('Hello!');
 const userQuestion = 'is the IT Hero?';
 console.log(userName + userQuestion);

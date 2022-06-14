@@ -1,5 +1,11 @@
+@font-face {
+  font-family: Roboto;
+   src: url("assets/fonts/Roboto.ttf");
+ }
 .block {
     padding: 20px;
     font: 16px/1.4 Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     color: teal;
   }
